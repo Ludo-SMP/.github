@@ -6,6 +6,6 @@
 
 <sub>Addr. 서울특별시 강남구 테헤란로19길 22 13층</sub> \
 <sub>Mail. support@ludoapi.store</sub> \
-<sub>Tel. 010-1134-4574</sub> \
+<sub>Tel. 010-1134-4574</sub>
 
 </div>

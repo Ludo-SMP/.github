@@ -9,7 +9,7 @@
   <br/><br/>
 
   
-[<img src="https://img.shields.io/badge/-ludo.study-9999FF?style=flat&logo=google-chrome&logoColor=white" />](https://ludo.study) [<img src="https://img.shields.io/badge/introduction-0085CA?style=flat&logo=notion&logoColor=white" />](https://coherent-stool-91c.notion.site/Ludo-3b08f55b652b475c991bfadf372e6f33) [<img src="https://img.shields.io/badge/license-MIT-0ABF53?style=flat" />](https://github.com/Ludo-SMP/.github/blob/main/LICENSE) [<img src="https://img.shields.io/badge/release-v2.0.0-0ABF53?style=flat" />]()
+[<img src="https://img.shields.io/badge/-ludo.study-9999FF?style=flat&logo=google-chrome&logoColor=white" />](https://ludo.study) [<img src="https://img.shields.io/badge/introduction-FFA116?style=flat&logo=notion&logoColor=white" />](https://coherent-stool-91c.notion.site/Ludo-3b08f55b652b475c991bfadf372e6f33) [<img src="https://img.shields.io/badge/license-MIT-0ABF53?style=flat" />](https://github.com/Ludo-SMP/.github/blob/main/LICENSE) [<img src="https://img.shields.io/badge/release-v2.0.0-0ABF53?style=flat" />]()
 </div>
 
 ## 📎 [Ludo 바로가기](https://ludo.study/)

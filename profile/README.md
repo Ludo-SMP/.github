@@ -45,17 +45,17 @@
 
 ### ✔︎ 진행기간 : 2023.12.15 ~ 진행 중
 
-#### ✔︎ 1차 마일스톤 : 2023.12.15 ~ 2024.03.15
+  - ✔︎ **1차 마일스톤 : 2023.12.15 ~ 2024.03.15**
 
-#### ✔︎ [1차 유저 테스트 : 2024.03.26 ~ 2024.03.30 [21건]](https://github.com/Ludo-SMP/ludo/blob/main/user-feedbacks/Ludo%201%E1%84%8E%E1%85%A1%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%8C%E1%85%A1%20%E1%84%91%E1%85%B5%E1%84%83%E1%85%B3%E1%84%87%E1%85%A2%E1%86%A8_%E1%84%8B%E1%85%B3%E1%86%BC%E1%84%83%E1%85%A1%E1%86%B8%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD.pdf)
+    - ✔︎ [1차 유저 테스트 : 2024.03.26 ~ 2024.03.30 [21건]](https://github.com/Ludo-SMP/ludo/blob/main/user-feedbacks/Ludo%201%E1%84%8E%E1%85%A1%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%8C%E1%85%A1%20%E1%84%91%E1%85%B5%E1%84%83%E1%85%B3%E1%84%87%E1%85%A2%E1%86%A8_%E1%84%8B%E1%85%B3%E1%86%BC%E1%84%83%E1%85%A1%E1%86%B8%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD.pdf)
 
-#### ✔︎ 2차 마일스톤 : 2024.04.02 ~ 2024.07.11
+  - ✔︎ **2차 마일스톤 : 2024.04.02 ~ 2024.07.11**
 
-#### ✔︎ [2차 유저 테스트 : 2024.05.04 ~ 2024.05.11 [9건]](https://github.com/Ludo-SMP/ludo/blob/main/user-feedbacks/Ludo%202%E1%84%8E%E1%85%A1%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%89%E1%85%A5%E1%86%BC%20%E1%84%80%E1%85%A5%E1%86%B7%E1%84%8C%E1%85%B3%E1%86%BC%20%E1%84%91%E1%85%B5%E1%84%83%E1%85%B3%E1%84%87%E1%85%A2%E1%86%A8_%E1%84%8B%E1%85%B3%E1%86%BC%E1%84%83%E1%85%A1%E1%86%B8%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD.pdf) . [랜딩 페이지 [링크]](https://www.figma.com/proto/8ok7UVNbYMUeEEohRKDylX/%EB%9E%9C%EB%94%A9%ED%8E%98%EC%9D%B4%EC%A7%80?type=design&node-id=1-132&t=1jpikPUnpZNdRckS-1&scaling=min-zoom&page-id=0%3A1)
+    - ✔︎ [2차 유저 테스트 : 2024.05.04 ~ 2024.05.11 [9건]](https://github.com/Ludo-SMP/ludo/blob/main/user-feedbacks/Ludo%202%E1%84%8E%E1%85%A1%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%89%E1%85%A5%E1%86%BC%20%E1%84%80%E1%85%A5%E1%86%B7%E1%84%8C%E1%85%B3%E1%86%BC%20%E1%84%91%E1%85%B5%E1%84%83%E1%85%B3%E1%84%87%E1%85%A2%E1%86%A8_%E1%84%8B%E1%85%B3%E1%86%BC%E1%84%83%E1%85%A1%E1%86%B8%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD.pdf) . [랜딩 페이지 [링크]](https://www.figma.com/proto/8ok7UVNbYMUeEEohRKDylX/%EB%9E%9C%EB%94%A9%ED%8E%98%EC%9D%B4%EC%A7%80?type=design&node-id=1-132&t=1jpikPUnpZNdRckS-1&scaling=min-zoom&page-id=0%3A1)
 
-#### ✔︎ [3차 유저 테스트 : 2024.07.04 ~ 2024.07.11 [32건]](https://github.com/Ludo-SMP/ludo/blob/main/user-feedbacks/Ludo%203%E1%84%8E%E1%85%A1%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%8C%E1%85%A1%20%E1%84%91%E1%85%B5%E1%84%83%E1%85%B3%E1%84%87%E1%85%A2%E1%86%A8_%E1%84%8B%E1%85%B3%E1%86%BC%E1%84%83%E1%85%A1%E1%86%B8%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD.pdf)
+    - ✔︎ [3차 유저 테스트 : 2024.07.04 ~ 2024.07.11 [32건]](https://github.com/Ludo-SMP/ludo/blob/main/user-feedbacks/Ludo%203%E1%84%8E%E1%85%A1%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%8C%E1%85%A1%20%E1%84%91%E1%85%B5%E1%84%83%E1%85%B3%E1%84%87%E1%85%A2%E1%86%A8_%E1%84%8B%E1%85%B3%E1%86%BC%E1%84%83%E1%85%A1%E1%86%B8%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD.pdf)
 
-#### ✔︎ 3차 마일스톤 : 2024.07.16 ~ 2024.09.03
+  - ✔︎ **3차 마일스톤 : 2024.07.16 ~ 2024.09.03**
 
 <br>
 
@@ -145,7 +145,7 @@
 
 <br>
 
-## 🛠️ Tech Stacks
+## 🛠️ 기술스택
 
 ### Back-end
 ![백엔드_기술스택](https://github.com/user-attachments/assets/fcce9f9c-a632-4c55-9384-cf4c249341df)
@@ -159,21 +159,19 @@
 
 <br>
 
-## 🔨 Architecture
-
-![1695948352414](https://github.com/user-attachments/assets/283d500d-4fe4-4006-a779-034d5791c67e)
+## 🔨 아키텍처
 
 ![Ludo-아키텍처 구조 (1201 x 601 px)](https://github.com/user-attachments/assets/3648a3ff-b92e-4db0-aa1d-123e024b4569)
 
 <br>
 
-## 💾 Database Structure
+## 💾 DB 구조
 
 ![ludo-ERD](https://github.com/user-attachments/assets/b43b7bb5-33a4-4638-8371-c295325121de)
 
 <br>
 
-## Branch Convention
+## Branch 컨벤션
 
 ```
 main: 최종 배포 (ver 1.0)
@@ -187,18 +185,13 @@ feature/관련 항목: 관련 항목에 대한 기능 구현
 
 <br>
 
-## PR Convention
+## PR 컨벤션
 
-### Format
-
-```
-type(Capitalization 적용): subject 관련 label 적용
-
-```
+### Conventional Commits 적용
 
 <br>
 
-## Commit Convention
+## Commit 컨벤션
 
 ### Format
 
@@ -210,7 +203,7 @@ body
 
 <br>
 
-## Convention Guide
+## 컨벤션 가이드
 
 ### type
 

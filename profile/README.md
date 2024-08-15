@@ -1,9 +1,10 @@
 <div align="center">
  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/98ca5088-2ae5-49dd-b3cd-0ec0d7238eea">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/967ebef5-f1ad-4956-9743-8ce279074e39">
-  <img alt="IMAGE" src="https://github.com/user-attachments/assets/967ebef5-f1ad-4956-9743-8ce279074e39">
+  <source media="(prefers-color-scheme: dark)" width="300" srcset="https://github.com/user-attachments/assets/04abc2c4-c50b-498c-b2ee-ced751ade965">
+  <source media="(prefers-color-scheme: light)" width="300" srcset="https://github.com/user-attachments/assets/479c81f7-358e-4e33-ad67-66fba7ed9452">
+  <img alt="IMAGE" src="https://github.com/user-attachments/assets/479c81f7-358e-4e33-ad67-66fba7ed9452">
 </picture>
+
  
   <h1>나도 배운걸 활용하고 싶다</h1>
   배운걸 활용하고 싶은데 고민이신가요?

@@ -63,25 +63,25 @@
 
 ### 🖌 기획
 
-#### 📓 [유저 스토리](https://docs.google.com/spreadsheets/d/14xlWLKUEV8hrthsYjRFmHcRLDtWRKmthFgiiYNGrhwA/edit#gid=0) 
+  - 📓 [유저 스토리](https://docs.google.com/spreadsheets/d/14xlWLKUEV8hrthsYjRFmHcRLDtWRKmthFgiiYNGrhwA/edit#gid=0) 
 
-#### 📓 [페이지 Flow Chart](https://www.figma.com/file/aCw6w4LCjTczfRGlmD1bhV/Page-flow-chart?type=whiteboard&node-id=0-1&t=99pRF5UZwzy7u5i5-0) <br>
+  - 📓 [페이지 Flow Chart](https://www.figma.com/file/aCw6w4LCjTczfRGlmD1bhV/Page-flow-chart?type=whiteboard&node-id=0-1&t=99pRF5UZwzy7u5i5-0) <br>
 
-#### 📓 [브레인 스토밍](https://www.figma.com/file/VSxOLuyKKZobloOcFja93N/Brain-storming?type=whiteboard&node-id=2-94&t=UZ5vevbuqABdPsBq-0)
+  - 📓 [브레인 스토밍](https://www.figma.com/file/VSxOLuyKKZobloOcFja93N/Brain-storming?type=whiteboard&node-id=2-94&t=UZ5vevbuqABdPsBq-0)
 
-#### 📓 [IA(정보 구조도)](https://www.figma.com/file/Sho4QHn0XqEptYBBlbf704/Page-Layout?type=design&node-id=206-31&mode=design&t=YTrENpZjUN2rJ4Dj-0)
+  - 📓 [IA(정보 구조도)](https://www.figma.com/file/Sho4QHn0XqEptYBBlbf704/Page-Layout?type=design&node-id=206-31&mode=design&t=YTrENpZjUN2rJ4Dj-0)
 
 ### 📄 기능 명세
 
-#### 📓 [API 설계서](http://35.227.190.157/api/swagger-ui/index.html#/)
+  - 📓 [API 설계서](http://35.227.190.157/api/swagger-ui/index.html#/)
 
-#### 📓 [페이지 기능명세서](https://docs.google.com/spreadsheets/d/1TejPT93Gi3ztsGqPt5lpAY1UMFvruP80D9pFmkwy1fI/edit?invite=CLS0q4EH#gid=0)
+  - 📓 [페이지 기능명세서](https://docs.google.com/spreadsheets/d/1TejPT93Gi3ztsGqPt5lpAY1UMFvruP80D9pFmkwy1fI/edit?invite=CLS0q4EH#gid=0)
 
 ### 🎨 디자인
 
-#### 📓 [페이지 디자인](https://www.figma.com/file/Sho4QHn0XqEptYBBlbf704/Page-Layout?type=design&node-id=281-174&mode=design&t=TeYlIf3mTucRE1I6-0)
+  - 📓 [페이지 디자인](https://www.figma.com/file/Sho4QHn0XqEptYBBlbf704/Page-Layout?type=design&node-id=281-174&mode=design&t=TeYlIf3mTucRE1I6-0)
 
-#### 📓 [디자인 시스템](https://www.figma.com/file/OLgSF11mOFN5MpcYzpD3N3/Design-System?type=design&node-id=1121-950&mode=design&t=2ZrFmOMMTcunVk5h-0)
+  - 📓 [디자인 시스템](https://www.figma.com/file/OLgSF11mOFN5MpcYzpD3N3/Design-System?type=design&node-id=1121-950&mode=design&t=2ZrFmOMMTcunVk5h-0)
 
 <br>
 
